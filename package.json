@@ -1,7 +1,7 @@
 {
-  "name": "campus-placement-automation-system",
+  "name": "college-placement-management-system",
   "version": "1.0.0",
-  "description": "Full Stack Campus Placement Automation System",
+  "description": "Full Stack College Placement Management System",
   "main": "backend/server.js",
   "scripts": {
     "build": "cd frontend && npm install && npm run build && cd ../backend && npm install",

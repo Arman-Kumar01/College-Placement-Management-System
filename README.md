@@ -1,6 +1,6 @@
-# Campus Placement Automation System
+# College Placement Management System
 
-A modern, full-stack **Campus Placement Automation System** built with **Node.js (Express)**, **React.js**, and **MySQL / Built-in SQLite**.  
+A modern, full-stack **College Placement Management System** built with **Node.js (Express)**, **React.js**, and **MySQL / Built-in SQLite**.  
 It automates end-to-end college placements: students can explore campus drives, apply with one click, and track their application status, while administrators and recruiters can post job openings, monitor placement metrics, and shortlist candidates.
 
 ---
