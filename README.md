@@ -1,5 +1,7 @@
 # College Placement Management System
 
+🔗 **Live Application:** [https://college-placement-system-hcg7.onrender.com](https://college-placement-system-hcg7.onrender.com)
+
 A modern, full-stack **College Placement Management System** built with **Node.js (Express)**, **React.js**, and **MySQL / Built-in SQLite**.  
 It automates end-to-end college placements: students can explore campus drives, apply with one click, and track their application status, while administrators and recruiters can post job openings, monitor placement metrics, and shortlist candidates.
 

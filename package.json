@@ -2,6 +2,7 @@
   "name": "college-placement-management-system",
   "version": "1.0.0",
   "description": "Full Stack College Placement Management System",
+  "homepage": "https://college-placement-system-hcg7.onrender.com",
   "main": "backend/server.js",
   "scripts": {
     "build": "cd frontend && npm install && npm run build && cd ../backend && npm install",
