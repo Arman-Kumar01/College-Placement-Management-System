@@ -1,0 +1,13 @@
+{
+  "name": "campus-placement-automation-system",
+  "version": "1.0.0",
+  "description": "Full Stack Campus Placement Automation System",
+  "main": "backend/server.js",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build && cd ../backend && npm install",
+    "start": "cd backend && node --experimental-sqlite server.js"
+  },
+  "keywords": ["placement", "campus", "recruitment", "react", "express", "fullstack"],
+  "author": "Arman-Kumar01",
+  "license": "ISC"
+}
