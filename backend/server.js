@@ -30,7 +30,7 @@ const fs = require("fs");
 const frontendBuild = path.join(__dirname, "../frontend/build");
 if (fs.existsSync(frontendBuild)) {
   app.use(express.static(frontendBuild));
-  app.get("*", (req, res, next) => {
+  app.use((req, res, next) => {
     if (req.path.startsWith("/api")) return next();
     res.sendFile(path.join(frontendBuild, "index.html"));
   });
